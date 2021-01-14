@@ -26,4 +26,4 @@ npm run lint
 ```
 
 ### 后端服务
-Java -jar won..........jar
+Java -jar won-0.0.1-SNAPSHOT.jar
